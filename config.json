@@ -1,19 +1,19 @@
 {
   "app": {
-    "latestApp": "1.0.18",
+    "latestApp": "1.0.17",
     "tmKey": "012562ae-60a9-4fcd-84d6-f1354ee1ea48",
-    "info": "",
+    "info": "Dear User, <br> Now you can see live train status also.",
     "alert": "",
     "supportedApp": ["1.0.17","1.0.16"]
   },
   "feedback": [
     {
-      "id": "1641659347328",
-      "msg": "Ok Binu",
+      "id": "",
+      "msg": "",
       "playStore": false
     }, {
-      "id": "1641658759833",
-      "msg": "Ok Binu",
+      "id": "",
+      "msg": "",
       "playStore": false
     }
   ]
