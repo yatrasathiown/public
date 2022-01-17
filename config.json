@@ -14,11 +14,15 @@
   "feedback": [
     {
       "id": "1641800415228",
-      "msg": "Dear User, <br> Chart of train 12633 is available now. You can see chart only after it has been prepaired for a particular train.<br>NOTE: Chart prepaired 4hr before scheduled departure of train.",
+      "msg": "Dear User, <br> Chart of train 12633 is available now. You can see chart only after it has been prepaired for a particular train.<br>NOTE: Chart prepaired 4 Hr before scheduled departure of train form it's charting station.",
       "playStore": false
     }, {
-      "id": "",
-      "msg": "",
+      "id": "1642211651681",
+      "msg": "Dear User, <br> Please share your train number using feedback form.<br><br>You can see chart only after it has been prepaired for a particular train.<br>NOTE: Chart prepaired 4 Hr before scheduled departure of train form it's charting station.",
+      "playStore": false
+    }, {
+      "id": "1642222205539",
+      "msg": "Dear User, <br> Please share your train number using feedback form.<br><br>You can see chart only after it has been prepaired for a particular train.<br>NOTE: Chart prepaired 4 Hr before scheduled departure of train form it's charting station.",
       "playStore": false
     }
   ]
