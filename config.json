@@ -3,7 +3,8 @@
     "latestApp": "1.0.18",
     "tmKey": "012562ae-60a9-4fcd-84d6-f1354ee1ea48",
     "info": "",
-    "alert": [
+    "alert": [],
+    "alert_1": [
       {
         "id": "1",
         "msg": "Dear User, <br> Now you can see live train status also."
@@ -43,6 +44,10 @@
     }, {
       "id": "1644143298019",
       "msg": "Dear User, <br> Thank you for your feedback. Keep using our app :) <br>We request you to give us a 5-star rating on play store also as it is the best encouragement for our team",
+      "playStore": true
+    }, {
+      "id": "1645203826557",
+      "msg": "Dear User, <br> Thank you for your feedback. Keep using and sharing our app :) <br>It is delightful to hear such positive words and it’s always a pleasure to serve our users.",
       "playStore": true
     }
   ]
