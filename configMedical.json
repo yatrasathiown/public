@@ -10,11 +10,12 @@
       }
     ],
     "msg": [
-      {"m": "Msg 1", "u": "www.irctc.co.in", "e": true, "b": true},
-      {"m": "Msg 2", "u": "www.irctc.co.in", "e": true, "b": false},
-      {"m": "Msg 3", "u": "www.irctc.co.in", "e": true, "b": true},
-      {"m": "Msg 4", "u": "www.irctc.co.in", "e": true, "b": false},
-      {"m": "Msg 5", "u": "www.irctc.co.in", "e": true, "b": true}
+      {"m": "NEET UG 2022 exam will happen on 17 Jul 2022. Admit card will be released soon.", "u": "https://neet.nta.nic.in/about-department/introduction/", "e": true, "b": true},
+      {"m": "Please rate our app on play store", "u": "https://play.google.com/store/apps/details?id=com.college.sathi", "e": true, "b": false},
+      {"m": "Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
+      {"m": "", "u": "/dashboard", "e": false, "b": false},
+      {"m": "", "u": "/dashboard", "e": false, "b": false},
+      {"m": "", "u": "/dashboard", "e": false, "b": false}
     ],
     "supportedApp": ["1.0.1","1.0.1"]
   },
