@@ -10,11 +10,11 @@
       }
     ],
     "msg": [
-      {m: 'Msg 1', u: 'www.irctc.co.in', 'e': true, b: true},
-      {m: 'Msg 2', u: 'www.irctc.co.in', 'e': true, b: false},
-      {m: 'Msg 3', u: 'www.irctc.co.in', 'e': true, b: true},
-      {m: 'Msg 4', u: 'www.irctc.co.in', 'e': true, b: false},
-      {m: 'Msg 5', u: 'www.irctc.co.in', 'e': true, b: true}
+      {"m": "Msg 1", "u": "www.irctc.co.in", "e": true, "b": true},
+      {"m": "Msg 2", "u": "www.irctc.co.in", "e": true, "b": false},
+      {"m": "Msg 3", "u": "www.irctc.co.in", "e": true, "b": true},
+      {"m": "Msg 4", "u": "www.irctc.co.in", "e": true, "b": false},
+      {"m": "Msg 5", "u": "www.irctc.co.in", "e": true, "b": true}
     ],
     "supportedApp": ["1.0.1","1.0.1"]
   },
