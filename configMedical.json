@@ -1,0 +1,32 @@
+{
+  "app": {
+    "latestApp": "1.0.1",
+    "info": "",
+    "alert": [],
+    "alert_1": [
+      {
+        "id": "1",
+        "msg": "Dear User, <br> Now you can see live train status also."
+      }
+    ],
+    "msg": [
+      {m: 'Msg 1', u: 'www.irctc.co.in', 'e': true, b: true},
+      {m: 'Msg 2', u: 'www.irctc.co.in', 'e': true, b: false},
+      {m: 'Msg 3', u: 'www.irctc.co.in', 'e': true, b: true},
+      {m: 'Msg 4', u: 'www.irctc.co.in', 'e': true, b: false},
+      {m: 'Msg 5', u: 'www.irctc.co.in', 'e': true, b: true}
+    ],
+    "supportedApp": ["1.0.1","1.0.1"]
+  },
+  "feedback": [
+    {
+      "id": "1641800415228",
+      "msg": "Dear User, <br> Chart of train 12633 is available now. You can see chart only after it has been prepaired for a particular train.<br>NOTE: Chart prepaired 4 Hr before scheduled departure of train form it's charting station.",
+      "playStore": false
+    }, {
+      "id": "1650504380928",
+      "msg": "Dear User, <br> Please share your train number using feedback form.<br><br>You can see chart only after it has been prepaired for a particular train.<br>NOTE: Chart prepaired 4 Hr before scheduled departure of train form it's charting station.",
+      "playStore": false
+    }
+  ]
+}
