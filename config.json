@@ -14,9 +14,9 @@
   },
   "feedback": [
     {
-      "id": "1641800415228",
-      "msg": "Dear User, <br> Chart of train 12633 is available now. You can see chart only after it has been prepaired for a particular train.<br>NOTE: Chart prepaired 4 Hr before scheduled departure of train form it's charting station.",
-      "playStore": false
+      "id": "1657503379014",
+      "msg": "Dear User, <br> Thanks for pointing this out. We will correct it in upcomming release. If you like our app then please encouragement for our team giving us a 5-star rating on play store",
+      "playStore": true
     }, {
       "id": "1650504380928",
       "msg": "Dear User, <br> Please share your train number using feedback form.<br><br>You can see chart only after it has been prepaired for a particular train.<br>NOTE: Chart prepaired 4 Hr before scheduled departure of train form it's charting station.",
