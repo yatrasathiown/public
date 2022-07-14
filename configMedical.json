@@ -1,6 +1,9 @@
 {
   "app": {
-    "latestApp": "1.0.1",
+    "latestApp": "1.0.2",
+    "mccUrl": "https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?enc=yVQCIiq12npg+pcvNJRdc3kepQTq5gfxUedDn3j/18l/qQzUB5RNn1iR+IHmcYNs",
+    "mccUrlClg": "https://mcc.nic.in/Counseling/Handler/ViewInstituteProfileDetails.ashx?boardId=140032121&InstituteId=",
+    "mccUrlBond": "https://mcc.nic.in/Counseling/Handler/ViewInstituteBond.ashx?boardId=140032121&InstituteId=",
     "info": "",
     "alert": [],
     "alert_1": [
@@ -10,14 +13,15 @@
       }
     ],
     "msg": [
-      {"m": "NEET UG 2022 exam will happen on 17 Jul 2022. Admit card will be released soon.", "u": "https://neet.nta.nic.in/about-department/introduction/", "e": true, "b": true},
+      {"m": "NEET UG 2022 exam will happen on 17 Jul 2022", "u": "https://neet.nta.nic.in/", "e": true, "b": true},
+      {"m": "NEET UG 2022 Admit card is released. Click here to view / download", "u": "https://examinationservices.nic.in/neet2022/DownloadAdmitCard/LoginDOB.aspx?enc=WPJ5WSCVWOMNiXoyyomJgATm16WDSuAdfwpi7ZXy4cM3hblcyDpJgf1oyFFZyuBY", "e": true, "b": true},
       {"m": "Please rate our app on play store", "u": "https://play.google.com/store/apps/details?id=com.college.sathi", "e": true, "b": false},
       {"m": "Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
       {"m": "", "u": "/dashboard", "e": false, "b": false},
       {"m": "", "u": "/dashboard", "e": false, "b": false},
       {"m": "", "u": "/dashboard", "e": false, "b": false}
     ],
-    "supportedApp": ["1.0.1","1.0.1"]
+    "supportedApp": ["1.0.1","1.0.2"]
   },
   "feedback": [
     {
