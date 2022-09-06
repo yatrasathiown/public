@@ -16,7 +16,7 @@
         "msg": "Dear User, <br> <span class='note'> Now you can see live train status also."
       }
     ],
-    "supportedApp": ["1.0.18", "1.0.19"]
+    "supportedApp": ["1.0.19"]
   },
   "feedback": [
     {
