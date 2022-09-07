@@ -21,7 +21,7 @@
       {"m": "", "u": "/dashboard", "e": false, "b": false},
       {"m": "", "u": "/dashboard", "e": false, "b": false}
     ],
-    "supportedApp": []
+    "supportedApp": ["1.0.3"]
   },
   "feedback": [
     {
