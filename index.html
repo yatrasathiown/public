@@ -4,29 +4,36 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="Description" content="Rail Chart PNR and Live Train Status: YATRA KA SATHI - Know real time information
-        of all your queries related to all trains running anywhere in India at your fingertips.
-        You don’t  have to run behind the TTE for vacant seats in trains now. 
-        You can know complete information of Rail Reservation Chart, VACANT BERTHS, COACH LAYOUT, COACH POSITION from engine,
-        from where to where a particular berth is RESERVED or VACANTafter charting, PNR Enq, Availability enq,
-        Live status etc on app">
-    <meta name="theme-color" content="#1976d2"/>
+    <meta name="Description" content="NEET RANK CUTOFF FEE Predictor">
+    <meta name="theme-color" content="#1976d2" />
     <meta name="format-detection" content="telephone=no">
     <meta name="msapplication-tap-highlight" content="no">
     <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
-    <title>Rail Chart PNR & Live Train Status: YATRA KA SATHI</title>
+    <title>NEET RANK CUTOFF FEE Predictor</title>
     <base href=".">
     <link rel="manifest" href="manifest.json">
-<link rel="stylesheet" href="styles.0e100251a9d08b3983de.css"></head>
+    <link async='async' rel="stylesheet" as="style" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+    <link rel="preconnect" crossorigin href="https://cdn.jsdelivr.net">
+    <link async='async' crossorigin rel="stylesheet" as="style" href="https://cdn.jsdelivr.net/npm/primeng@9.0.5/resources/primeng.min.css" />
+    <link async='async' crossorigin rel="stylesheet" as="style" href="https://cdn.jsdelivr.net/npm/primeng@9.0.5/resources/themes/nova-light/theme.css" />
+    <link async='async' crossorigin rel="stylesheet" as="style" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" />
+</head>
 
 <body>
     <style type="text/css">
-        .loading_div {
-            background-image: url("./assets/image/logo.png");
+        .header {
+            background-image: url("neetApp.png");
             background-repeat: no-repeat;
-            height: 15.85vh;
-            width: 15.85vh;
-            background-size: 16vh;
+            height: 100%;
+            width: 100%;
+            background-size: 41vh;
+        }
+        .loading_div {
+            background-image: url("neetApp.png");
+            background-repeat: no-repeat;
+            height: 40.85vh;
+            width: 40.85vh;
+            background-size: 41vh;
         }
         #outer {
             width: 100%;
@@ -40,7 +47,7 @@
             display: inline-block;
             margin: 0px 4px;
             position: relative;
-            top: 35vh;
+            top: 10vh;
         }
         .txt {
             color: #FFF;
@@ -53,40 +60,162 @@
             color: #FFF;
             font-size: 1.6em;
             position: relative;
-            top: 60vh;
+            top: 15vh;
+        }
+        .note {
+            text-align: justify;
+            padding-bottom: 2px;
+        }
+        i{padding-top: 5px;}
+        .btn {background-color: #fb792b;border-radius: 6px;color: white;font-size: inherit;}
+        .logo{width: 8vw}
+        .hed{font-size: 80px;}
+        .btxt{font-size: x-large;}
+        @media screen and (max-width: 768px) {
+            .col-xs-12, .col-xs-11, .col-xs-10, .col-xs-9, .col-xs-8, .col-xs-7, .col-xs-6, .col-xs-5, .col-xs-4, .col-xs-3, .col-xs-2, .col-xs-1,
+            .col-sm-12, .col-sm-11, .col-sm-10, .col-sm-9, .col-sm-8, .col-sm-7, .col-sm-6, .col-sm-5, .col-sm-4, .col-sm-3, .col-sm-2, .col-sm-1,
+            .col-md-12, .col-md-11, .col-md-10, .col-md-9, .col-md-8, .col-md-7, .col-md-6, .col-md-5, .col-md-4, .col-md-3, .col-md-2, .col-md-1,
+            .col-xl-12, .col-xl-11, .col-xl-10, .col-xl-9, .col-xl-8, .col-xl-7, .col-xl-6, .col-xl-5, .col-xl-4, .col-xl-3, .col-xl-2, .col-xl-1{
+                padding: 6px 4px;
+            }
+            .logo{width: 15vw}
+            .hed{font-size: 34px;}
+            .htxt{margin-top: -11px;}
+            .btxt{font-size: initial;}
         }
     </style>
-    <app-root>
-        <div id="outer">
-            <div id="inner">
-                <div class="loading_div"></div>
-            </div>
-            <div class="txt">Yatra Ka Sathi</div>
-            <div class="txt1"><span style="color: #1976d2;">आपकी यात्रा मंगलमय हो</span></br>THANKS FOR USING</div>
+    <div class="col-xs-12">
+        <div class="col-xs-12 text-center" style="padding: 6px;color: green;">
+            <img src="logo512.png" alt="Italian Trulli" class="logo pull-left">
+            <img src="logo-o.png" alt="Italian Trulli" class="logo pull-right">
+            <div class="htxt"><h1 class="hed">YATRA   SATHI</h1></div>
         </div>
-    </app-root>
+    </div>
+    <div class="col-xs-12" style="padding: 1px 0px;">
+        <div class="text-center" style="padding-bottom: 2vh;">
+            <h1><strong>NEET-UG 2022 College & Rank Predictor</strong></h1>
+        </div>
+        <div class="col-xs-12 text-center btxt" style="color: #00007d">
+            <div class="col-xs-12 col-sm-4">
+                <img src="neetApp-1.png" alt="Italian Trulli" style="width: -webkit-fill-available;">
+            </div>
+            <div class="col-xs-12 col-sm-8" style="padding-top: 20px">
+                <div class="col-xs-12 note">
+                    <div class="col-xs-1">
+                        <i class="fa fa-check pull-right" aria-hidden="true"></i>
+                    </div>
+                    <div class="col-xs-11">
+                        Know your admission chances in Medical college in course like MBBS, BDS, BAMS, 
+                        BHMS, BUMS with NEET AIR Rank
+                    </div>
+                </div>
+                <div class="col-xs-12 note">
+                    <div class="col-xs-1">
+                        <i class="fa fa-check pull-right" aria-hidden="true"></i>
+                    </div>
+                    <div class="col-xs-11">
+                        <strong>Predict medical colleges on your NEET AIR rank or NEET Scores</strong>
+                    </div>
+                </div>
+                <div class="col-xs-12 note">
+                    <div class="col-xs-1">
+                        <i class="fa fa-check pull-right" aria-hidden="true"></i>
+                    </div>
+                    <div class="col-xs-11">
+                        Predict your rank based on NEET score
+                    </div>
+                </div>
+                <div class="col-xs-12 note">
+                    <div class="col-xs-1">
+                        <i class="fa fa-check pull-right" aria-hidden="true"></i>
+                    </div>
+                    <div class="col-xs-11">
+                        Get a personalised report of Top MBBS, BDS & AYUSH Colleges colleges details
+                    </div>
+                </div>
+                <div class="col-xs-12 note">
+                    <div class="col-xs-1">
+                        <i class="fa fa-check pull-right" aria-hidden="true"></i>
+                    </div>
+                    <div class="col-xs-11">
+                        Check course & counselling wise cut-offs NEET AIR of all medical colleges for various quotas & cotegories
+                    </div>
+                </div>
+                <div class="col-xs-12 note">
+                    <div class="col-xs-1">
+                        <i class="fa fa-check pull-right" aria-hidden="true"></i>
+                    </div>
+                    <div class="col-xs-11">
+                        Know Total seat of All courses quota wise
+                    </div>
+                </div>
+                <div class="col-xs-12 note">
+                    <div class="col-xs-1">
+                        <i class="fa fa-check pull-right" aria-hidden="true"></i>
+                    </div>
+                    <div class="col-xs-11">
+                        You can get these all details without sharing any of your personal informations like name, mobile no, email etc
+                    </div>
+                </div>
+                <div class="col-xs-12 text-center">
+                    <div class="col-xs-12 col-sm-6">
+                        <a href="https://play.google.com/store/apps/details?id=com.college.yatra" class="btn" target="_blank">
+                            <i class="fa fa-download" aria-hidden="true" style="padding-right: 6px;"></i>Download APP Now
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 text-center" style="padding: 2vh 0px;">
+            <h1><strong>Key feature of our APP</strong></h1>
+        </div>
+        <div class="col-xs-12 text-center" style="font-size: x-large;color: #00007d">
+            <div class="col-xs-6 col-sm-3">
+                <img src="neetApp-11.png" alt="Italian Trulli" style="width: -webkit-fill-available;">
+            </div>
+            <div class="col-xs-6 col-sm-3">
+                <img src="neetApp-2.png" alt="Italian Trulli" style="width: -webkit-fill-available;">
+            </div>
+            <div class="col-xs-6 col-sm-3">
+                <img src="neetApp-3.png" alt="Italian Trulli" style="width: -webkit-fill-available;">
+            </div>
+            <div class="col-xs-6 col-sm-3">
+                <img src="neetApp-4.png" alt="Italian Trulli" style="width: -webkit-fill-available;">
+            </div>
+            <div class="col-xs-6 col-sm-3">
+                <img src="neetApp-5.png" alt="Italian Trulli" style="width: -webkit-fill-available;">
+            </div>
+            <div class="col-xs-6 col-sm-3">
+                <img src="neetApp-6.png" alt="Italian Trulli" style="width: -webkit-fill-available;">
+            </div>
+            <div class="col-xs-6 col-sm-3">
+                <img src="neetApp-7.png" alt="Italian Trulli" style="width: -webkit-fill-available;">
+            </div>
+            <div class="col-xs-6 col-sm-3">
+                <img src="neetApp-8.png" alt="Italian Trulli" style="width: -webkit-fill-available;">
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12">
+        footer will goes here
+    </div>
+
+
+    <!-- <div id="outer">
+        <div id="inner">
+            <div class="loading_div"></div>
+        </div>
+        <div class="txt1"><span style="color: #FFF;">Wishing you a bright future ahead</span></br>THANKS FOR USING</div>
+    </div> -->
     
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B23XZL6PFG"></script>
     <script>
-        (function (i, s, o, g, r, a, m) {
-          i['GoogleAnalyticsObject'] = r;
-          i[r] = i[r] || function () {
-            (i[r].q = i[r].q || []).push(arguments)
-          }, i[r].l = 1 * new Date();
-          a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0];
-          a.async = 1;
-          a.src = g;
-          m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', 'analytics.js', 'ga');
-        ga('create', 'UA-159940167-1', 'auto');
-        ga('set', 'appName', 'Yatra Ka Sathi');
-        ga('set', 'appVersion', '1.0.0');
-        ga('set', 'storage', 'none');
-        ga('set', 'checkProtocolTask', null);
-        ga('set', 'clientId', new Date().getTime());
-        ga('send', 'screenview', {screenName: 'Home'});
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-B23XZL6PFG');
     </script>
     <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
     <script type="text/javascript" src="assets/js/ads.js"></script>
-<script src="runtime.7b63b9fd40098a2e8207.js" defer></script><script src="polyfills.94daefd414b8355106ab.js" defer></script><script src="main.2f4f6a56747c4184e203.js" defer></script></body>
+</body>
 </html>
