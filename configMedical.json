@@ -13,13 +13,13 @@
       }
     ],
     "msg": [
-      {"m": "NEET UG 2022 ALL INDIA COUNSELLING SCHEDULE", "u": "https://mcc.nic.in/WebinfoUG/File/GetFile//?FileId=4643&LangId=P", "e": true, "b": true},
-      {"m": "NEET UG 2022 STATE COUNSELLING SCHEDULE", "u": "https://mcc.nic.in/WebinfoUG/File/GetFile//?FileId=4644&LangId=P", "e": true, "b": true},
-      {"m": "Check Your NEET UG 2022 Result", "u": "https://ntaresults.nic.in/resultservices/NEET-2022-auth", "e": true, "b": true},
-      {"m": "Dear User, Please share your rank, score with your other details with us using feedbak form of app", "u": "/feedback", "e": false, "b": true},
-      {"m": "NEET UG 2022 exam happened on 17 Jul 2022", "u": "https://neet.nta.nic.in/", "e": true, "b": true},
-      {"m": "Please rate our app on play store", "u": "https://play.google.com/store/apps/details?id=com.college.sathi", "e": true, "b": true},
-      {"m": "Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
+      {"m": "1. NEET UG 2022 ALL INDIA COUNSELLING SCHEDULE", "u": "https://mcc.nic.in/WebinfoUG/File/GetFile//?FileId=4643&LangId=P&enc=yVQCIiq12npg+pcvNJRdc3kepQTq5gfxUedDn3j/18l/qQzUB5RNn1iR+IHmcYNs", "e": true, "b": true},
+      {"m": "2. NEET UG 2022 STATE COUNSELLING SCHEDULE", "u": "https://mcc.nic.in/WebinfoUG/File/GetFile//?FileId=4644&LangId=P&enc=yVQCIiq12npg+pcvNJRdc3kepQTq5gfxUedDn3j/18l/qQzUB5RNn1iR+IHmcYNs", "e": true, "b": true},
+      {"m": "3. Check Your NEET UG 2022 Result", "u": "https://ntaresults.nic.in/resultservices/NEET-2022-auth", "e": true, "b": true},
+      {"m": "4. Dear User, Please share your rank, score with your other details with us using feedbak form of app", "u": "/feedback", "e": false, "b": true},
+      {"m": "5. NEET UG 2022 exam happened on 17 Jul 2022", "u": "https://neet.nta.nic.in/", "e": true, "b": true},
+      {"m": "6. Please rate our app on play store", "u": "https://play.google.com/store/apps/details?id=com.college.sathi", "e": true, "b": true},
+      {"m": "7. Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
       {"m": "", "u": "/dashboard", "e": false, "b": false},
       {"m": "", "u": "/dashboard", "e": false, "b": false},
       {"m": "", "u": "/dashboard", "e": false, "b": false}
