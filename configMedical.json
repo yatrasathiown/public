@@ -13,6 +13,7 @@
       }
     ],
     "msg": [
+      {"m": "NEET UG 2022 COUNSELLING will start from 11 Oct", "u": "https://mcc.nic.in/WebinfoUG/File/ViewFile?FileId=4643&LangId=P", "e": true, "b": true},
       {"m": "Check Your NEET UG 2022 Result", "u": "https://ntaresults.nic.in/resultservices/NEET-2022-auth", "e": true, "b": true},
       {"m": "Dear User, Please share your rank, score with your other details with us using feedbak form of app", "u": "/feedback", "e": false, "b": true},
       {"m": "NEET UG 2022 exam happened on 17 Jul 2022", "u": "https://neet.nta.nic.in/", "e": true, "b": true},
