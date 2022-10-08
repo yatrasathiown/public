@@ -1,0 +1,27 @@
+{
+    "app": {
+      "latestApp": "1.0.0",
+      "inHouseAds": [{"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp.png"},
+                     {"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetAppT.png"}],
+      "showAds": true,
+      "adsOnCount": 40,
+      "msg": [
+        {"m": "6. Please rate our app on play store", "u": "https://play.google.com/store/apps/details?id=com.college.sathi", "e": true, "b": true},
+        {"m": "7. Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
+        {"m": "", "u": "/dashboard", "e": false, "b": false}
+      ],
+      "supportedApp": ["1.0.0"]
+    },
+    "feedback": [
+      {
+        "id": "1657503379014",
+        "msg": "Dear User, <br> <span class='note'> Thanks for pointing this out. We will correct it in upcomming release. If you like our app then please encouragement for our team giving us a 5-star rating on play store",
+        "playStore": true
+      }, {
+        "id": "1650504380928",
+        "msg": "Dear User, <br> <span class='note'> Please share your train number using feedback form.<br><br>You can see chart only after it has been prepaired for a particular train.<br>NOTE: Chart prepaired 4 Hr before scheduled departure of train form it's charting station.",
+        "playStore": false
+      }
+    ]
+  }
+  
