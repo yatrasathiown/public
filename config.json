@@ -1,6 +1,6 @@
 {
   "app": {
-    "latestApp": "1.0.20",
+    "latestApp": "1.1.1",
     "tmKey": "012562ae-60a9-4fcd-84d6-f1354ee1ea48",
     "inHouseAds": [{"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp.png"},
                    {"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetAppT.png"}],
@@ -16,7 +16,7 @@
         "msg": "Dear User, <br> <span class='note'> Now you can see live train status also."
       }
     ],
-    "supportedApp": ["1.0.19", "1.0.20"]
+    "supportedApp": ["1.0.20"]
   },
   "feedback": [
     {
