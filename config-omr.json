@@ -1,6 +1,6 @@
 {
     "app": {
-      "latestApp": "1.0.0",
+      "latestApp": "3.0.0",
       "inHouseAds": [{"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp.png"},
                      {"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetAppT.png"}],
       "showAds": false,
@@ -11,7 +11,7 @@
         {"m": "Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
         {"m": "", "u": "/dashboard", "e": false, "b": false}
       ],
-      "supportedApp": ["1.0.0"]
+      "supportedApp": ["3.0.0"]
     },
     "feedback": [
       {
