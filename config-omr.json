@@ -1,13 +1,12 @@
 {
     "app": {
       "latestApp": "3.0.0",
-      "inHouseAds": [{"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp.png"},
-                     {"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetAppT.png"}],
+      "inHouseAds": [],
       "showAds": false,
       "adsOnCount": 40,
       "interstital": 3,
       "msg": [
-        {"m": "Please rate our app on play store", "u": "https://play.google.com/store/apps/details?id=com.college.sathi", "e": true, "b": true},
+        {"m": "Please rate our app on play store", "u": "market://details?id=omr.test.sathi", "e": true, "b": true},
         {"m": "Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
         {"m": "", "u": "/dashboard", "e": false, "b": false}
       ],
