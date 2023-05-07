@@ -26,7 +26,7 @@
       }
     ],
     "msg": [
-      {"m": "Dear User, <br> We are working hard aggregating data. We will update app very soon. Please Stay tuned.", "u": null, "e": true, "b": true},
+      {"m": "Dear User, We are working hard aggregating data. We will update app very soon. Please Stay tuned.", "u": null, "e": true, "b": true},
       {"m": "", "u": null, "e": true, "b": true},
       {"m": "Best Of Luck For Your Result of NEET 2023", "u": null, "e": true, "b": true},
       {"m": "Please rate our app on play store", "u": "https://play.google.com/store/apps/details?id=com.college.sathi", "e": true, "b": true},
@@ -35,7 +35,8 @@
       {"m": "", "u": "/dashboard", "e": false, "b": false},
       {"m": "", "u": "/dashboard", "e": false, "b": false}
     ],
-    "supportedApp": ["1.0.3"]
+    "supportedApp": ["1.0.3", "2.0.0"],
+    "rankCalculater": {"inYear": 2023, "2021": 70, "2022": 30}
   },
   "feedback": [
     {
