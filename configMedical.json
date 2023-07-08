@@ -9,14 +9,6 @@
       {
         "id": "1",
         "msg": "Dear User, <br> We are working hard aggregating data. We will update app very soon. Please Stay tuned."
-      },
-      {
-        "id": "2",
-        "msg": "Dear User, <br> We are working hard aggregating data. We will update app very soon. Please Stay tuned."
-      },
-      {
-        "id": "3",
-        "msg": "Dear User, <br> We are working hard aggregating data. We will update app very soon. Please Stay tuned."
       }
     ],
     "alert_1": [
@@ -26,9 +18,7 @@
       }
     ],
     "msg": [
-      {"m": "Dear User, We are working hard aggregating data. We will update app very soon. Please Stay tuned.", "u": null, "e": true, "b": true},
-      {"m": "", "u": null, "e": true, "b": true},
-      {"m": "Best Of Luck For Your Result of NEET 2023", "u": null, "e": true, "b": true},
+      {"m": "Best Of Luck For Your counselling using NEET 2023", "u": null, "e": true, "b": true},
       {"m": "Please rate our app on play store", "u": "https://play.google.com/store/apps/details?id=com.college.sathi", "e": true, "b": true},
       {"m": "Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
       {"m": "", "u": "/dashboard", "e": false, "b": false},
