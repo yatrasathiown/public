@@ -1,6 +1,8 @@
 {
   "app": {
-    "latestApp": "1.0.3",
+    "latestApp": "2.0.0",
+    "showAds": true,
+    "adsOnCount": 30,
     "mccUrl": "https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?enc=yVQCIiq12npg+pcvNJRdc3kepQTq5gfxUedDn3j/18l/qQzUB5RNn1iR+IHmcYNs",
     "mccUrlClg": "https://mcc.nic.in/Counseling/Handler/ViewInstituteProfileDetails.ashx?boardId=140032121&InstituteId=",
     "mccUrlBond": "https://mcc.nic.in/Counseling/Handler/ViewInstituteBond.ashx?boardId=140032121&InstituteId=",
@@ -25,8 +27,8 @@
       {"m": "", "u": "/dashboard", "e": false, "b": false},
       {"m": "", "u": "/dashboard", "e": false, "b": false}
     ],
-    "supportedApp": ["1.0.3", "2.0.0"],
-    "rankCalculater": {"inYear": 2023, "2021": 70, "2022": 30}
+    "supportedApp": ["2.0.0", "2.0.1"],
+    "rankCalculater": {"inYear": 2023, "2021": 30, "2022": 75}
   },
   "feedback": [
     {
