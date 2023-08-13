@@ -2,7 +2,7 @@
   "app": {
     "latestApp": "2.0.0",
     "showAds": true,
-    "adsOnCount": 30,
+    "adsOnCount": 20,
     "mccUrl": "https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?enc=yVQCIiq12npg+pcvNJRdc3kepQTq5gfxUedDn3j/18l/qQzUB5RNn1iR+IHmcYNs",
     "mccUrlClg": "https://mcc.nic.in/Counseling/Handler/ViewInstituteProfileDetails.ashx?boardId=140032121&InstituteId=",
     "mccUrlBond": "https://mcc.nic.in/Counseling/Handler/ViewInstituteBond.ashx?boardId=140032121&InstituteId=",
@@ -10,7 +10,11 @@
     "alert": [
       {
         "id": "1",
-        "msg": "Dear User, <br> We are working hard aggregating data. We will update app very soon. Please Stay tuned."
+        "msg": "Dear User, <br> We have updated all DATA till 1st counselling 2023 in our latest released App. Please update app and enjoy our free services and Stay tuned with us. <br>Also Please don't forget to rate our app on play store"
+      },
+      {
+        "id": "2",
+        "msg": "Dear User, <br> We have updated all DATA till 1st counselling 2023 in our latest released App. Please update app and enjoy our free services and Stay tuned with us. <br>Also Please don't forget to rate our app on play store"
       }
     ],
     "alert_1": [
@@ -21,14 +25,14 @@
     ],
     "msg": [
       {"m": "Best Of Luck For Your counselling using NEET 2023", "u": null, "e": true, "b": true},
-      {"m": "Please rate our app on play store", "u": "https://play.google.com/store/apps/details?id=com.college.sathi", "e": true, "b": true},
+      {"m": "If you like our work and app then Please don't forget to rate our app on play store", "u": "https://play.google.com/store/apps/details?id=com.college.sathi", "e": true, "b": true},
       {"m": "Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
       {"m": "", "u": "/dashboard", "e": false, "b": false},
       {"m": "", "u": "/dashboard", "e": false, "b": false},
       {"m": "", "u": "/dashboard", "e": false, "b": false}
     ],
     "supportedApp": ["2.0.0", "2.0.1"],
-    "rankCalculater": {"inYear": 2023, "2021": 30, "2022": 75}
+    "rankCalculater": {"inYear": 2023, "2021": 30, "2022": 85}
   },
   "feedback": [
     {
