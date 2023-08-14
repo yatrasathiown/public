@@ -32,7 +32,7 @@
       {"m": "", "u": "/dashboard", "e": false, "b": false}
     ],
     "supportedApp": ["2.0.0", "2.0.1"],
-    "rankCalculater": {"inYear": 2023, "2021": 30, "2022": 85}
+    "rankCalculater": {"inYear": 2023, "2021": 35, "2022": 95}
   },
   "feedback": [
     {
