@@ -1,6 +1,6 @@
 {
   "app": {
-    "latestApp": "2.0.0",
+    "latestApp": "2.0.2",
     "showAds": true,
     "adsOnCount": 20,
     "mccUrl": "https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?enc=yVQCIiq12npg+pcvNJRdc3kepQTq5gfxUedDn3j/18l/qQzUB5RNn1iR+IHmcYNs",
@@ -31,7 +31,7 @@
       {"m": "", "u": "/dashboard", "e": false, "b": false},
       {"m": "", "u": "/dashboard", "e": false, "b": false}
     ],
-    "supportedApp": ["2.0.0", "2.0.1"],
+    "supportedApp": ["2.0.0", "2.0.2"],
     "rankCalculater": {"inYear": 2023, "2021": 35, "2022": 95}
   },
   "feedback": [
