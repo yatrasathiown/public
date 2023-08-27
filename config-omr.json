@@ -10,7 +10,7 @@
         {"m": "Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
         {"m": "", "u": "/dashboard", "e": false, "b": false}
       ],
-      "supportedApp": ["3.0.0"]
+      "supportedApp": ["3.0.0","3.0.1"]
     },
     "feedback": [
       {
