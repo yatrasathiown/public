@@ -17,22 +17,28 @@
         "msg": "Dear User, <br> We have updated all DATA till 2nd Round counselling 2023 in our latest released App. Please update app and enjoy our free services and Stay tuned with us. <br>Also Please don't forget to rate our app on play store"
       }
     ],
-    "alert_1": [
-      {
-        "id": "1",
-        "msg": "Dear User, <br> Now you can see live train status also."
-      }
-    ],
     "msg": [
       {"m": "Best Of Luck For Your counselling using NEET 2023", "u": null, "e": true, "b": true},
-      {"m": "If you like our work and app then Please don't forget to rate our app on play store", "u": "https://play.google.com/store/apps/details?id=com.college.sathi", "e": true, "b": true},
+      {"m": "If you like our work and app then Please don't forget to rate our app on play store", "u": "market://details?id=com.college.yatra", "e": true, "b": true},
       {"m": "Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
       {"m": "", "u": "/dashboard", "e": false, "b": false},
       {"m": "", "u": "/dashboard", "e": false, "b": false},
       {"m": "", "u": "/dashboard", "e": false, "b": false}
     ],
-    "supportedApp": ["2.0.2", "2.0.3"],
-    "rankCalculater": {"inYear": 2023, "2021": 35, "2022": 95}
+    "supportedApp": ["2.0.3", "2.0.4"],
+    "rankCalculater": {"inYear": 2023, "2021": 35, "2022": 95},
+    "rankingFile": "collegeRanking",
+    "keys": ["alert", "appPref", "appHistory"],
+    "acc": {
+      "ranking": [2023, 2022, 2021],
+      "fee": 1,
+      "cutoff": [{"2023": [1]},{"2022": [1,2,3,4]},{"2021": [1,2,3,4]}]
+    },
+    "mcc": {
+      "ranking": [2023, 2022, 2021],
+      "fee": 1,
+      "cutoff": [{"2023": [1,2]},{"2022": [1,2,3,4,5]},{"2021": [1,2,3,4]}]
+    }
   },
   "feedback": [
     {

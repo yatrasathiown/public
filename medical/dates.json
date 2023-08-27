@@ -1,0 +1,60 @@
+{
+    "dates": {"heading": "Important Dates 2023", 
+        "data": [{"heading": "1st Round Councelling",
+          "details": [{
+            "on": "20th July, 2023 to 25th July, 2023 <span class='red'>(up to 12:00 NOON) only as per Server Time</span> Payment facility will be available <span class='red'>08:00 PM of 25th July, 2023 as per Server Time</span>", 
+            "desc": "Registration and Payments",
+            "url": "https://mcc.nic.in/ug-medical-counselling/",
+            "copy": true
+          },{
+            "on": "22nd July, 2023 to 26th July, 2023 <span class='red'>(up to 11:55 P.M of 26th July, 2023) only as per Server Time</span> Choice Locking will be available from <span class='red'>03:00 P.M of 26th July, 2023 upto 11:55 P.M of 26th July, 2023 as per Server Time</span>", 
+            "desc": "Choice Filling / Locking",
+            "url": "https://mcc.nic.in/ug-medical-counselling/",
+            "copy": true
+          },{
+            "on": "29th July, 2023", 
+            "desc": "College Allotment Result Announcement",
+            "url": "https://ntaresults.nic.in/resultservices/NEET-2021-auth",
+            "copy": true
+          },{
+            "on": "30th July, 2023", 
+            "desc": "Uploading of documents by the candidates on MCC portal",
+            "url": "https://mcc.nic.in/ug-medical-counselling/",
+            "copy": true
+          },{
+            "on": "31st July, 2023 to 4th Aug, 2023", 
+            "desc": "Reporting / Joining Alloted College",
+            "url": null,
+            "copy": false
+          }
+        ]
+        },{"heading": "2nd Round Councelling",
+          "details": [{
+            "on": "20th July, 2023 to 25th July, 2023 <span class='red bld'>(up to 12:00 NOON) only as per Server Time</span>Payment facility will be available <span class='red'>08:00 PM of 25th July, 2023 as per Server Time</span>", 
+            "desc": "Registration and Payments",
+            "url": "https://mcc.nic.in/ug-medical-counselling/",
+            "copy": true
+          },{
+            "on": "22nd July, 2023 to 26th July, 2023 <span class='red'>(up to 11:55 P.M of 26th July, 2023) only as per Server Time</span>Choice Locking will be available from <span class='red'>03:00 P.M of 26th July, 2023 upto 11:55 P.M of 26th July, 2023 as per Server Time</span>", 
+            "desc": "Choice Filling / Locking",
+            "url": "https://mcc.nic.in/ug-medical-counselling/",
+            "copy": true
+          },{
+            "on": "29th July, 2023", 
+            "desc": "College Allotment Result Announcement",
+            "url": "https://ntaresults.nic.in/resultservices/NEET-2021-auth",
+            "copy": true
+          },{
+            "on": "30th July, 2023", 
+            "desc": "Uploading of documents by the candidates on MCC portal",
+            "url": "https://mcc.nic.in/ug-medical-counselling/",
+            "copy": true
+          },{
+            "on": "31st July, 2023 to 4th Aug, 2023", 
+            "desc": "Reporting / Joining Alloted College",
+            "url": null,
+            "copy": false
+          }]
+        }]
+    }
+}
