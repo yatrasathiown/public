@@ -26,13 +26,13 @@
       {"m": "", "u": "/dashboard", "e": false, "b": false}
     ],
     "supportedApp": ["2.0.3", "2.0.4"],
-    "rankCalculater": {"inYear": 2023, "2021": 35, "2022": 95},
+    "rankCalculater": {"inYear": 2023, "2021": 35, "2022":  95},
     "rankingFile": "collegeRanking",
     "keys": ["alert", "appPref", "appHistory"],
     "acc": {
       "ranking": [2023, 2022, 2021],
       "fee": 1,
-      "cutoff": [{"2023": [1]},{"2022": [1,2,3,4]},{"2021": [1,2,3,4]}]
+      "cutoff": [{"2023": []},{"2022": []},{"2021": [1,2,3,4]}]
     },
     "mcc": {
       "ranking": [2023, 2022, 2021],
