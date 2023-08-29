@@ -1,6 +1,6 @@
 {
     "app": {
-      "latestApp": "3.0.0",
+      "latestApp": "3.0.1",
       "inHouseAds": [],
       "showAds": false,
       "adsOnCount": 40,
@@ -10,12 +10,12 @@
         {"m": "Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
         {"m": "", "u": "/dashboard", "e": false, "b": false}
       ],
-      "supportedApp": ["3.0.0","3.0.1"]
+      "supportedApp": ["3.0.1"]
     },
     "feedback": [
       {
-        "id": "1657503379014",
-        "msg": "Dear User, <br> <span class='note'> Thanks for pointing this out. We will correct it in upcomming release. If you like our app then please encouragement for our team giving us a 5-star rating on play store",
+        "id": "1693293505070",
+        "msg": "Dear User, <br> <span class='note'> Thanks for your suggestion. We will try to add this in upcomming release. If you like our app then please encouragement for our team giving us a 5-star rating on play store",
         "playStore": true
       }, {
         "id": "1650504380928",
