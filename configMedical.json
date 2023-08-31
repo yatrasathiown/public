@@ -1,7 +1,7 @@
 {
   "app": {
-    "latestApp": "2.0.3",
-    "showAds": true,
+    "latestApp": "2.0.4",
+    "showAds": false,
     "adsOnCount": 20,
     "mccUrl": "https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?enc=yVQCIiq12npg+pcvNJRdc3kepQTq5gfxUedDn3j/18l/qQzUB5RNn1iR+IHmcYNs",
     "mccUrlClg": "https://mcc.nic.in/Counseling/Handler/ViewInstituteProfileDetails.ashx?boardId=140032121&InstituteId=",
