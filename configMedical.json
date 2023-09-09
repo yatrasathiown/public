@@ -9,12 +9,12 @@
     "info": "",
     "alert": [
       {
-        "id": "1",
-        "msg": "Dear User, <br> We have updated all DATA till 2nd Round counselling 2023 in our latest released App. Please update app and enjoy our free services and Stay tuned with us. <br>Also Please don't forget to rate our app on play store"
+        "id": "3",
+        "msg": "Dear User, <br> We have updated all DATA till 3rd Round MCC and 1st Round ACC counselling 2023 in our latest released App. Please update app and enjoy our free services and Stay tuned with us. <br>Also Please don't forget to rate our app on play store"
       },
       {
-        "id": "2",
-        "msg": "Dear User, <br> We have updated all DATA till 2nd Round counselling 2023 in our latest released App. Please update app and enjoy our free services and Stay tuned with us. <br>Also Please don't forget to rate our app on play store"
+        "id": "4",
+        "msg": "Dear User, <br> We have updated all DATA till 3rd Round MCC and 1st Round ACC counselling 2023 in our latest released App. Please update app and enjoy our free services and Stay tuned with us. <br>Also Please don't forget to rate our app on play store"
       }
     ],
     "msg": [
@@ -26,18 +26,18 @@
       {"m": "", "u": "/dashboard", "e": false, "b": false}
     ],
     "supportedApp": ["2.0.3", "2.0.4"],
-    "rankCalculater": {"inYear": 2023, "2021": 35, "2022":  95},
+    "rankCalculater": {"inYear": 2023, "2021": 50, "2022":  95},
     "rankingFile": "collegeRanking",
     "keys": ["alert", "appPref", "appHistory"],
     "acc": {
       "ranking": [2023, 2022, 2021],
       "fee": 1,
-      "cutoff": [{"2023": []},{"2022": []},{"2021": [1,2,4]}]
+      "cutoff": [{"2023": [1]},{"2022": [1]},{"2021": [1,2,4]}]
     },
     "mcc": {
       "ranking": [2023, 2022, 2021],
       "fee": 1,
-      "cutoff": [{"2023": [1,2]},{"2022": [1,2,3,4,5]},{"2021": [1,2,3,4]}]
+      "cutoff": [{"2023": [1,2,3]},{"2022": [1,2,3,4,5]},{"2021": [1,2,3,4]}]
     }
   },
   "feedback": [
