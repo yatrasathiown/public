@@ -9,15 +9,16 @@
     "info": "",
     "alert": [
       {
-        "id": "3",
-        "msg": "Dear User, <br> We have updated all DATA till 4th Round MCC and 2nd Round AACCC counselling 2023 in our latest released App. Please update app and enjoy our free services and Stay tuned with us. <br>Also Please don't forget to rate our app on play store"
+        "id": "5",
+        "msg": "Dear User, <br> We have updated all all Colleges cutoff data till 4th Round MCC and 2nd Round AACCC counselling 2023 in our latest released App. Please update app and enjoy our free services and Stay tuned with us. <br>Also Please don't forget to rate our app on play store"
       },
       {
-        "id": "4",
-        "msg": "Dear User, <br> We have updated all DATA till 3rd Round MCC and 1st Round ACC counselling 2023 in our latest released App. Please update app and enjoy our free services and Stay tuned with us. <br>Also Please don't forget to rate our app on play store"
+        "id": "6",
+        "msg": "Dear User, <br> We have updated all all Colleges cutoff data till 4th Round MCC and 2nd Round AACCC counselling 2023 in our latest released App. Please update app and enjoy our free services and Stay tuned with us. <br>Also Please don't forget to rate our app on play store"
       }
     ],
     "msg": [
+      {"m": "We have updated all Colleges cutoff data till 4th Round MCC and 2nd Round AACCC counselling 2023 in our latest released App. Please update app and enjoy our free services and Stay tuned with us. <br>Also Please don't forget to rate our app on play store", "u": null, "e": true, "b": true},
       {"m": "Best Of Luck For Your counselling using NEET 2023", "u": null, "e": true, "b": true},
       {"m": "If you like our work and app then Please don't forget to rate our app on play store", "u": "market://details?id=com.college.yatra", "e": true, "b": true},
       {"m": "Please give feedback for this app", "u": "/feedback", "e": false, "b": true},
