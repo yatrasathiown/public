@@ -12,7 +12,7 @@
     "alertDataDumy": [
       {"id": "0","url": "market://details?id=com.college.yatra", "msg": "Dear User, <br> <span class='note'> If train list or station list is not being shown, Please erase app memory. <br> यदि ट्रेन सूची या स्टेशन सूची नहीं दिखाई जा रही है, तो कृपया ऐप मेमोरी मिटा दें। <br> Sorry for inconvenience <br> असुविधा के लिए खेद है </span>"}
     ],
-    "supportedApp": ["1.1.7","1.1.5"],
+    "supportedApp": ["1.1.7","1.1.5","1.1.8"],
     "scmap": 1
   },
   "feedback": [
