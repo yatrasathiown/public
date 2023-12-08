@@ -4,6 +4,8 @@
     "tmKey": "012562ae-60a9-4fcd-84d6-f1354ee1ea48",
     "inHouseAds": [{"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp.png"},
                    {"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp1.png"},
+                   {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
+                   {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
                    {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"}],
     "showAds": true,
     "adsOnCount": 30,
@@ -12,58 +14,14 @@
     "alertDataDumy": [
       {"id": "0","url": "market://details?id=com.college.yatra", "msg": "Dear User, <br> <span class='note'> If train list or station list is not being shown, Please erase app memory. <br> यदि ट्रेन सूची या स्टेशन सूची नहीं दिखाई जा रही है, तो कृपया ऐप मेमोरी मिटा दें। <br> Sorry for inconvenience <br> असुविधा के लिए खेद है </span>"}
     ],
-    "supportedApp": ["1.1.7","1.1.5","1.1.8"],
+    "supportedApp": ["1.1.7","1.1.9","1.1.8"],
     "scmap": 1
   },
   "feedback": [
     {
       "id": "1666964748026",
-      "msg": "You: Trian no.05530 Good work Acci Rehan Raza <br> Developer: आपकी मजाकिया टिप्पणी के लिए धन्यवाद। आपकी टिप्पणी पसंद आई कृपया आगे संवाद करने के लिए हमें yatrakasathicc@gmail.com पर लिखें। or share your details using feedback <br> If you like our app then please encouragement for our team giving us a 5-star rating on play store",
+      "msg": "",
       "playStore": true
-    },{
-      "id": "1657503379014",
-      "msg": "Dear User, <br> <span class='note'> Thanks for pointing this out. We will correct it in upcomming release. If you like our app then please encouragement for our team giving us a 5-star rating on play store",
-      "playStore": true
-    }, {
-      "id": "1650504380928",
-      "msg": "Dear User, <br> <span class='note'> Please share your train number using feedback form.<br><br>You can see chart only after it has been prepaired for a particular train.<br>NOTE: Chart prepaired 4 Hr before scheduled departure of train form it's charting station.",
-      "playStore": false
-    }, {
-      "id": "1650450269558",
-      "msg": "Dear User, <br> <span class='note'> Thank you for your feedback. Keep using our app :) We will update these details in upcomming versions.<br>We request you to give us a 5-star rating on play store also as it is the best encouragement for our team",
-      "playStore": true
-    }, {
-      "id": "1658841969637",
-      "msg": "Dear User, <br> <span class='note'> Thank you for your feedback. Keep using our app :) <br>We request you to give us a 5-star rating on play store also as it is the best encouragement for our team",
-      "playStore": true
-    }, {
-      "id": "1643897294147",
-      "msg": "Dear User, <br> <span class='note'> Thank you for your feedback. Keep using our app :) <br>We request you to give us a 5-star rating on play store also as it is the best encouragement for our team",
-      "playStore": true
-    }, {
-      "id": "1644208832254",
-      "msg": "Dear User, <br> <span class='note'> Thank you for your feedback. Keep using our app :) We are showing availability of 4 months <br>We request you to give us a 5-star rating on play store also as it is the best encouragement for our team",
-      "playStore": true
-    }, {
-      "id": "1650262672588",
-      "msg": "Dear User, <br> <span class='note'> Thank you for your feedback. Keep using our app :) <br>We request you to give us a 5-star rating on play store also as it is the best encouragement for our team",
-      "playStore": true
-    }, {
-      "id": "1650450269558",
-      "msg": "Dear User, <br> <span class='note'> Thank you for your feedback. Keep using our app :) <br>We request you to give us a 5-star rating on play store also as it is the best encouragement for our team",
-      "playStore": true
-    }, {
-      "id": "1650376079075",
-      "msg": "Dear User, <br> <span class='note'> Thank you for your feedback. Keep using our app :) <br>We request you to give us a 5-star rating on play store also as it is the best encouragement for our team",
-      "playStore": true
-    }, {
-      "id": "1643720486923",
-      "msg": "Dear User, <br> <span class='note'> Thank you for your feedback. Keep using our app :) <br>Your train might be cancelled on the journey date you are searching for. Request you to check availability status on train between station page to ensure it. Thank you for your feedback. ",
-      "playStore": true
-    }, {
-      "id": "1645203826557",
-      "msg": "Dear User, <br> <span class='note'> Thank you for your feedback. Keep using and sharing our app :) <br>It is delightful to hear such positive words and it’s always a pleasure to serve our users.",
-      "playStore": false
     }
   ]
 }
