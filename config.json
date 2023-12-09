@@ -9,7 +9,7 @@
                    {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"}],
     "showAds": true,
     "adsOnCount": 30,
-    "adsInstOnPage": ["/chart", "/tbisShow", "/composition"],
+    "adsInstOnPage": ["/chart-/composition"],
     "info": "",
     "alert": [],
     "alertDataDumy": [
