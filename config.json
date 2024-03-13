@@ -11,7 +11,7 @@
                    {"show": true, "url": "https://practice.examsaathi.com/", "image": "https://practice.examsaathi.com/assets/examsaathi_banner.png"}
                   ],
     "showAds": true,
-    "adsOnCount": 20,
+    "adsOnCount": 60,
     "adsInstOnPage": ["/chart-/composition", "/tbis-/composition","/pnrDetails-/composition"],
     "fbu": "https://script.google.com/macros/s/AKfycbwGH4FOM1GFdMPPv4scvdJSDfuTrqvZ5BbtUepZVOwNg9yWR7OeW_9QeqA1J9Ki07yA/exec",
     "info": "",
