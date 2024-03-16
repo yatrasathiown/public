@@ -12,15 +12,16 @@
                   ],
     "showAds": true,
     "adsOnCount": 60,
-    "adsInstOnPage": ["/chart-/composition", "/tbis-/composition","/pnrDetails-/composition"],
+    "adsInstOnPage": ["/chart-/composition", "/tbisShow-/composition","/pnrDetails-/composition"],
     "fbu": "https://script.google.com/macros/s/AKfycbwGH4FOM1GFdMPPv4scvdJSDfuTrqvZ5BbtUepZVOwNg9yWR7OeW_9QeqA1J9Ki07yA/exec",
     "info": "",
     "alert": [],
     "alertDataDumy": [
       {"id": "0","url": "market://details?id=com.college.yatra", "msg": "Dear User, <br> <span class='note'> If train list or station list is not being shown, Please erase app memory. <br> यदि ट्रेन सूची या स्टेशन सूची नहीं दिखाई जा रही है, तो कृपया ऐप मेमोरी मिटा दें। <br> Sorry for inconvenience <br> असुविधा के लिए खेद है </span>"}
     ],
-    "supportedApp": ["1.1.14"],
-    "scmap": 1
+    "supportedApp": ["1.1.14", "1.1.15"],
+    "scmap": 1,
+    "service": {"PNR": "IR", "TBIS": "IR", "SCHEDULE": "CT", "AVL": "IR"}
   },
   "feedback": [
     {
