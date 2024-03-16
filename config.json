@@ -2,7 +2,7 @@
   "app": {
     "latestApp": ["1.1.14", "1.1.15"],
     "tmKey": "012562ae-60a9-4fcd-84d6-f1354ee1ea48",
-    "inHouseAds_1": [{"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp.png"},
+    "inHouseAds": [{"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp.png"},
                    {"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp1.png"},
                    {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
                    {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
@@ -10,7 +10,7 @@
                    {"show": true, "url": "https://practice.examsaathi.com/", "image": "https://practice.examsaathi.com/assets/examsaathi_banner.png"},
                    {"show": true, "url": "https://practice.examsaathi.com/", "image": "https://practice.examsaathi.com/assets/examsaathi_banner.png"}
                   ],
-    "showAds": false,
+    "showAds": true,
     "adsOnCount": 60,
     "adsInstOnPage": ["/chart-/composition", "/tbisShow-/composition","/pnrDetails-/composition"],
     "fbu": "https://script.google.com/macros/s/AKfycbwGH4FOM1GFdMPPv4scvdJSDfuTrqvZ5BbtUepZVOwNg9yWR7OeW_9QeqA1J9Ki07yA/exec",
