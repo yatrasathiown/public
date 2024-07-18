@@ -9,18 +9,18 @@
                    {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
                    {"show": true, "url": "market://details?id=com.examsaathi.com", "image": "https://practice.examsaathi.com/assets/examsaathi_banner.png"},
                    {"show": true, "url": "market://details?id=com.examsaathi.com", "image": "https://practice.examsaathi.com/assets/examsaathi_banner.png"},
-                   {"show": true, "url": "schedule", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "schedule", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "schedule", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "schedule", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "schedule", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "schedule", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "schedule", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "schedule", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "schedule", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "schedule", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "schedule", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "schedule", "image": "https://neetcollege.co.in/news.png"}
+                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
+                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
+                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
+                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
+                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
+                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
+                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
+                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
+                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
+                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
+                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
+                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"}
                   ],
     "showAds": true,
     "adsOnCount": 60,
@@ -33,7 +33,7 @@
     ],
     "supportedApp": ["1.1.14", "1.1.15"],
     "scmap": 1,
-    "service": {"PNR": "IR", "TBIS": "IR", "SCHEDULE": "CT", "AVL": "IR"}
+    "service": {"PNR": "IR", "TBIS": "IR", "https://enquiry.indianrail.gov.in/mntes": "CT", "AVL": "IR"}
   },
   "feedback": [
     {
