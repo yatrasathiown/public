@@ -7,33 +7,14 @@
                    {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
                    {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
                    {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
-                   {"show": true, "url": "market://details?id=com.examsaathi.com", "image": "https://practice.examsaathi.com/assets/examsaathi_banner.png"},
-                   {"show": true, "url": "market://details?id=com.examsaathi.com", "image": "https://practice.examsaathi.com/assets/examsaathi_banner.png"},
-                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"},
-                   {"show": true, "url": "https://enquiry.indianrail.gov.in/mntes", "image": "https://neetcollege.co.in/news.png"}
+                   {"show": true, "url": "market://details?id=com.examsaathi.com", "image": "https://practice.examsaathi.com/assets/examsaathi_banner.png"}
                   ],
     "showAds": true,
-    "adsOnCount": 60,
+    "adsOnCount": 30,
     "adsInstOnPage": ["/chart-/composition", "/tbisShow-/composition","/pnrDetails-/composition"],
     "fbu": "https://script.google.com/macros/s/AKfycbwGH4FOM1GFdMPPv4scvdJSDfuTrqvZ5BbtUepZVOwNg9yWR7OeW_9QeqA1J9Ki07yA/exec",
     "info": null,
     "alert": [
-      {"id": "0","url": null, "msg": "DUE TO DERAILMENT OF TRAIN NO. 15904(CDG-DBRG) JCO 17.07.2024 IN BLOCK SECTION MOTG-JLH OF LJN DIV, A RELIEF TRAIN FOR PASSENGER OF 15904 WITH TRAIN NO.05904 WILL DEPART FROM GKP TO DBRG AT 23.00 HRS OF 18.07.2024 ON THE ROUTE AND STOPPAGE OF 15904. ट्रेन संख्या 15904 (सीडीजी-डीबीआरजी) के पटरी से उतरने के कारण जेसीओ 17.07.2024 एलजेएन डिवीजन के ब्लॉक सेक्शन एमओटीजी-जेएलएच में, 15904 के यात्रियों के लिए ट्रेन संख्या 05904 के साथ एक राहत ट्रेन 18.07.2024 को 23.00 बजे गोरखपुर जं - GKP (गोरखपुर) से डिबरुगढ - DBRG के लिए प्रस्थान करेगी जो ट्रेन संख्या 15904 के शेड्यूल का पालन करेंगा"},
-      {"id": "1","url": null, "msg": "DUE TO DERAILMENT OF TRAIN NO. 15904(CDG-DBRG) JCO 17.07.2024 IN BLOCK SECTION MOTG-JLH OF LJN DIV, A RELIEF TRAIN FOR PASSENGER OF 15904 WITH TRAIN NO.05904 WILL DEPART FROM GKP TO DBRG AT 23.00 HRS OF 18.07.2024 ON THE ROUTE AND STOPPAGE OF 15904. ट्रेन संख्या 15904 (सीडीजी-डीबीआरजी) के पटरी से उतरने के कारण जेसीओ 17.07.2024 एलजेएन डिवीजन के ब्लॉक सेक्शन एमओटीजी-जेएलएच में, 15904 के यात्रियों के लिए ट्रेन संख्या 05904 के साथ एक राहत ट्रेन 18.07.2024 को 23.00 बजे गोरखपुर जं - GKP (गोरखपुर) से डिबरुगढ - DBRG के लिए प्रस्थान करेगी जो ट्रेन संख्या 15904 के शेड्यूल का पालन करेंगा"},
-      {"id": "2","url": null, "msg": "DUE TO DERAILMENT OF TRAIN NO. 15904(CDG-DBRG) JCO 17.07.2024 IN BLOCK SECTION MOTG-JLH OF LJN DIV, A RELIEF TRAIN FOR PASSENGER OF 15904 WITH TRAIN NO.05904 WILL DEPART FROM GKP TO DBRG AT 23.00 HRS OF 18.07.2024 ON THE ROUTE AND STOPPAGE OF 15904. ट्रेन संख्या 15904 (सीडीजी-डीबीआरजी) के पटरी से उतरने के कारण जेसीओ 17.07.2024 एलजेएन डिवीजन के ब्लॉक सेक्शन एमओटीजी-जेएलएच में, 15904 के यात्रियों के लिए ट्रेन संख्या 05904 के साथ एक राहत ट्रेन 18.07.2024 को 23.00 बजे गोरखपुर जं - GKP (गोरखपुर) से डिबरुगढ - DBRG के लिए प्रस्थान करेगी जो ट्रेन संख्या 15904 के शेड्यूल का पालन करेंगा"},
-      {"id": "3","url": null, "msg": "DUE TO DERAILMENT OF TRAIN NO. 15904(CDG-DBRG) JCO 17.07.2024 IN BLOCK SECTION MOTG-JLH OF LJN DIV, A RELIEF TRAIN FOR PASSENGER OF 15904 WITH TRAIN NO.05904 WILL DEPART FROM GKP TO DBRG AT 23.00 HRS OF 18.07.2024 ON THE ROUTE AND STOPPAGE OF 15904. ट्रेन संख्या 15904 (सीडीजी-डीबीआरजी) के पटरी से उतरने के कारण जेसीओ 17.07.2024 एलजेएन डिवीजन के ब्लॉक सेक्शन एमओटीजी-जेएलएच में, 15904 के यात्रियों के लिए ट्रेन संख्या 05904 के साथ एक राहत ट्रेन 18.07.2024 को 23.00 बजे गोरखपुर जं - GKP (गोरखपुर) से डिबरुगढ - DBRG के लिए प्रस्थान करेगी जो ट्रेन संख्या 15904 के शेड्यूल का पालन करेंगा"},
-      {"id": "4","url": null, "msg": "DUE TO DERAILMENT OF TRAIN NO. 15904(CDG-DBRG) JCO 17.07.2024 IN BLOCK SECTION MOTG-JLH OF LJN DIV, A RELIEF TRAIN FOR PASSENGER OF 15904 WITH TRAIN NO.05904 WILL DEPART FROM GKP TO DBRG AT 23.00 HRS OF 18.07.2024 ON THE ROUTE AND STOPPAGE OF 15904. ट्रेन संख्या 15904 (सीडीजी-डीबीआरजी) के पटरी से उतरने के कारण जेसीओ 17.07.2024 एलजेएन डिवीजन के ब्लॉक सेक्शन एमओटीजी-जेएलएच में, 15904 के यात्रियों के लिए ट्रेन संख्या 05904 के साथ एक राहत ट्रेन 18.07.2024 को 23.00 बजे गोरखपुर जं - GKP (गोरखपुर) से डिबरुगढ - DBRG के लिए प्रस्थान करेगी जो ट्रेन संख्या 15904 के शेड्यूल का पालन करेंगा"},
-      {"id": "5","url": null, "msg": "DUE TO DERAILMENT OF TRAIN NO. 15904(CDG-DBRG) JCO 17.07.2024 IN BLOCK SECTION MOTG-JLH OF LJN DIV, A RELIEF TRAIN FOR PASSENGER OF 15904 WITH TRAIN NO.05904 WILL DEPART FROM GKP TO DBRG AT 23.00 HRS OF 18.07.2024 ON THE ROUTE AND STOPPAGE OF 15904. ट्रेन संख्या 15904 (सीडीजी-डीबीआरजी) के पटरी से उतरने के कारण जेसीओ 17.07.2024 एलजेएन डिवीजन के ब्लॉक सेक्शन एमओटीजी-जेएलएच में, 15904 के यात्रियों के लिए ट्रेन संख्या 05904 के साथ एक राहत ट्रेन 18.07.2024 को 23.00 बजे गोरखपुर जं - GKP (गोरखपुर) से डिबरुगढ - DBRG के लिए प्रस्थान करेगी जो ट्रेन संख्या 15904 के शेड्यूल का पालन करेंगा"}
     ],
     "alertDataDumy": [
       {"id": "0","url": "market://details?id=com.college.yatra", "msg": "Dear User, <br> <span class='note'> If train list or station list is not being shown, Please erase app memory. <br> यदि ट्रेन सूची या स्टेशन सूची नहीं दिखाई जा रही है, तो कृपया ऐप मेमोरी मिटा दें। <br> Sorry for inconvenience <br> असुविधा के लिए खेद है </span>"}
