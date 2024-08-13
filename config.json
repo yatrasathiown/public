@@ -7,7 +7,8 @@
                    {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
                    {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
                    {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
-                   {"show": true, "url": "market://details?id=com.examsaathi.com", "image": "https://practice.examsaathi.com/assets/examsaathi_banner.png"}
+                   {"show": true, "url": "market://details?id=com.examsaathi.com", "image": "https://examsaathi.com/assets/examsaathi_mobile_banner.png"},
+                   {"show": true, "url": "https://examsaathi.com/", "image": "https://examsaathi.com/assets/examsaathi_banner.png"}
                   ],
     "showAds": true,
     "adsOnCount": 30,
@@ -19,7 +20,7 @@
     "alertDataDumy": [
       {"id": "0","url": "market://details?id=com.college.yatra", "msg": "Dear User, <br> <span class='note'> If train list or station list is not being shown, Please erase app memory. <br> यदि ट्रेन सूची या स्टेशन सूची नहीं दिखाई जा रही है, तो कृपया ऐप मेमोरी मिटा दें। <br> Sorry for inconvenience <br> असुविधा के लिए खेद है </span>"}
     ],
-    "supportedApp": ["1.1.14", "1.1.15"],
+    "supportedApp": ["1.1.14", "1.1.15", "1.1.16"],
     "scmap": 1,
     "service": {"PNR": "IR", "TBIS": "IR", "https://enquiry.indianrail.gov.in/mntes": "CT", "AVL": "IR"}
   },
