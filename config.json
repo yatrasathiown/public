@@ -14,6 +14,7 @@
     "adsOnCount": 30,
     "adsInstOnPage": ["/chart-/composition", "/tbisShow-/composition","/pnrDetails-/composition"],
     "fbu": "https://script.google.com/macros/s/AKfycbwGH4FOM1GFdMPPv4scvdJSDfuTrqvZ5BbtUepZVOwNg9yWR7OeW_9QeqA1J9Ki07yA/exec",
+    "fedbackUrl": "macros/s/AKfycbwGH4FOM1GFdMPPv4scvdJSDfuTrqvZ5BbtUepZVOwNg9yWR7OeW_9QeqA1J9Ki07yA/exec",
     "info": null,
     "alert": [
     ],
@@ -22,7 +23,21 @@
     ],
     "supportedApp": ["1.1.14", "1.1.15", "1.1.16"],
     "scmap": 1,
-    "service": {"PNR": "IR", "TBIS": "IR", "https://enquiry.indianrail.gov.in/mntes": "CT", "AVL": "IR"}
+    "service": {"PNR": "IR", "TBIS": "IR", "https://enquiry.indianrail.gov.in/mntes": "CT", "AVL": "IR",
+      "AVL_ENQ": [
+        {"from": 0, "to": 440, "key": "allLapAvlEnq"},
+        {"from": 520, "to": 560, "key": "allLapAvlEnq"},
+        {"from": 700, "to": 1500, "key": "allLapAvlEnq"},
+        {"from": 1, "to": 1000, "key": "allLapAvlFareEnq"},
+        {"from": 0, "to": 1500, "key": "IR"}
+      ],
+      "TBIS_ENQ": [
+        {"from": 0, "to": 440, "key": "IRCTC"},
+        {"from": 520, "to": 560, "key": "IRCTC"},
+        {"from": 700, "to": 1500, "key": "IRCTC"},
+        {"from": 0, "to": 1500, "key": "IR"}
+      ]
+    }
   },
   "feedback": [
     {
