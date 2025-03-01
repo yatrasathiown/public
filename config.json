@@ -1,6 +1,6 @@
 {
   "app": {
-    "latestApp": ["1.1.18", "1.1.19", "1.1.20"],
+    "latestApp": ["1.1.20", "1.1.21", "1.1.22"],
     "tmKey": "012562ae-60a9-4fcd-84d6-f1354ee1ea48",
     "bufferTime": 86400000,
     "inHouseAds": [{"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp.png"},
