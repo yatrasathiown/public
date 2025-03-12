@@ -33,6 +33,7 @@
         {"from": 0, "to": 2500, "key": "IR"}
       ],
       "TBIS_ENQ": [
+        {"from": 0, "to": 2500, "key": "IR"},
         {"from": 0, "to": 449, "key": "IRCTC"},
         {"from": 510, "to": 569, "key": "IRCTC"},
         {"from": 690, "to": 2500, "key": "IRCTC"},
