@@ -1,6 +1,7 @@
 {
   "app": {
     "latestApp": ["1.1.20", "1.1.21", "1.1.22"],
+    "supportedApp": ["1.1.15", "1.1.16", "1.1.17", "1.1.18", "1.1.19", "1.1.20", "1.1.21", "1.1.22"],
     "tmKey": "012562ae-60a9-4fcd-84d6-f1354ee1ea48",
     "bufferTime": 86400000,
     "inHouseAds": [{"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp.png"},
@@ -22,22 +23,21 @@
     "alertDataDumy": [
       {"id": "0","url": "market://details?id=com.college.yatra", "msg": "Dear User, <br> <span class='note'> If train list or station list is not being shown, Please erase app memory. <br> यदि ट्रेन सूची या स्टेशन सूची नहीं दिखाई जा रही है, तो कृपया ऐप मेमोरी मिटा दें। <br> Sorry for inconvenience <br> असुविधा के लिए खेद है </span>"}
     ],
-    "supportedApp": ["1.1.15", "1.1.16", "1.1.17", "1.1.18", "1.1.19", "1.1.20"],
     "scmap": 1,
     "service": {"PNR": "IR", "TBIS": "IR", "https://enquiry.indianrail.gov.in/mntes": "CT", "AVL": "IR",
       "AVL_ENQ": [
-        {"from": 0, "to": 449, "key": "allLapAvlEnq"},
-        {"from": 510, "to": 569, "key": "allLapAvlEnq"},
-        {"from": 690, "to": 2500, "key": "allLapAvlEnq"},
-        {"from": 1, "to": 1, "key": "allLapAvlFareEnq"},
-        {"from": 0, "to": 2500, "key": "IR"}
+        {"from": 0, "to": 449, "key": "allLapAvlEnq", "dateFormate": "dd-MM-yyyy"},
+        {"from": 510, "to": 569, "key": "allLapAvlEnq", "dateFormate": "dd-MM-yyyy"},
+        {"from": 690, "to": 2500, "key": "allLapAvlEnq", "dateFormate": "dd-MM-yyyy"},
+        {"from": 1, "to": 1, "key": "allLapAvlFareEnq", "dateFormate": "dd-MM-yyyy"},
+        {"from": 0, "to": 2500, "key": "IR", "dateFormate": "yyyy-MM-dd"}
       ],
       "TBIS_ENQ": [
-        {"from": 0, "to": 2500, "key": "IR"},
-        {"from": 0, "to": 449, "key": "IRCTC"},
-        {"from": 510, "to": 569, "key": "IRCTC"},
-        {"from": 690, "to": 2500, "key": "IRCTC"},
-        {"from": 0, "to": 2500, "key": "IR"}
+        {"from": 0, "to": 2500, "key": "IR", "dateFormate": "yyyy-MM-dd"},
+        {"from": 0, "to": 449, "key": "IRCTC", "dateFormate": "dd-MM-yyyy"},
+        {"from": 510, "to": 569, "key": "IRCTC", "dateFormate": "dd-MM-yyyy"},
+        {"from": 690, "to": 2500, "key": "IRCTC", "dateFormate": "dd-MM-yyyy"},
+        {"from": 0, "to": 2500, "key": "IR", "dateFormate": "yyyy-MM-dd"}
       ]
     }
   },
