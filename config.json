@@ -1,6 +1,6 @@
 {
   "app": {
-    "latestApp": ["1.1.21", "1.1.22"],
+    "latestApp": ["1.1.21", "1.1.22", "3.0.2"],
     "supportedApp": ["1.1.21", "1.1.22"],
     "tmKey": "012562ae-60a9-4fcd-84d6-f1354ee1ea48",
     "bufferTime": 86400000,
