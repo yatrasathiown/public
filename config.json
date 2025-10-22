@@ -24,7 +24,6 @@
     "scmap": 1,
     "service": {"PNR": "IR", "TBIS": "IR", "https://enquiry.indianrail.gov.in/mntes": "CT", "AVL": "IR",
       "AVL_ENQ": [
-        {"from": 0, "to": 2500, "key": "IR", "dateFormate": "YYYY-MM-DD"},
         {"from": 0, "to": 449, "key": "allLapAvlEnq", "dateFormate": "DD-MM-YYYY"},
         {"from": 510, "to": 569, "key": "allLapAvlEnq", "dateFormate": "DD-MM-YYYY"},
         {"from": 690, "to": 2500, "key": "allLapAvlEnq", "dateFormate": "DD-MM-YYYY"},
