@@ -7,8 +7,7 @@
     "inHouseAds": [{"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp.png"},
                    {"show": true, "url": "market://details?id=com.college.yatra", "image": "https://neetcollege.co.in/neetApp1.png"},
                    {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
-                   {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"},
-                   {"show": true, "url": "market://details?id=com.instincts.splitup", "image": "https://splitup.in/banner.png"}
+                   {"show": true, "url": "market://details?id=omr.test.sathi", "image": "https://neetcollege.co.in/omrApp.png"}
                   ],
     "showAds": true,
     "adsOnCount": 30,
@@ -24,6 +23,7 @@
     "scmap": 1,
     "service": {"PNR": "IR", "TBIS": "IR", "https://enquiry.indianrail.gov.in/mntes": "CT", "AVL": "IR",
       "AVL_ENQ": [
+        {"from": 0, "to": 2500, "key": "IR", "dateFormate": "YYYY-MM-DD"},
         {"from": 0, "to": 449, "key": "allLapAvlEnq", "dateFormate": "DD-MM-YYYY"},
         {"from": 510, "to": 569, "key": "allLapAvlEnq", "dateFormate": "DD-MM-YYYY"},
         {"from": 690, "to": 2500, "key": "allLapAvlEnq", "dateFormate": "DD-MM-YYYY"},
