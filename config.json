@@ -12,7 +12,7 @@
     "showAds": true,
     "adsOnCount": 30,
     "adsInstOnPage": ["/chart-/composition", "/tbisShow-/composition","/pnrDetails-/composition"],
-    "fbu": "https://script.google.com/macros/s/AKfycbwGH4FOM1GFdMPPv4scvdJSDfuTrqvZ5BbtUepZVOwNg9yWR7OeW_9QeqA1J9Ki07yA/exec",
+    "fbu": "https://script.google.com/macros/s/AKfycbyEa7_qpG7gUPmFXXM16uDjyDxeyd4phxQd5oRIArNgxNDxyQRIZ-489cmdfXmwFjgs/exec",
     "fedbackUrl": "macros/s/AKfycbwGH4FOM1GFdMPPv4scvdJSDfuTrqvZ5BbtUepZVOwNg9yWR7OeW_9QeqA1J9Ki07yA/exec",
     "info": null,
     "alert": [
